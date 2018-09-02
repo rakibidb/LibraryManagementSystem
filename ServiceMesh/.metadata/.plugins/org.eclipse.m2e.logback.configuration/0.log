@@ -1047,3 +1047,81 @@ java.io.FileNotFoundException: E:\LibraryManagementSystem\ServiceMesh\.metadata\
 2018-09-02 21:21:21,830 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-09-02 21:21:21,831 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-02 21:21:21,831 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:23:25,863 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\api-gateway\pom.xml.
+2018-09-02 21:23:26,269 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2018-09-02 21:23:26,269 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2018-09-02 21:23:26,274 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2018-09-02 21:23:26,279 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2018-09-02 21:23:26,430 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2018-09-02 21:23:26,431 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-02 21:23:26,589 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\api-gateway\pom.xml.
+2018-09-02 21:23:26,886 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2018-09-02 21:23:26,886 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2018-09-02 21:23:26,893 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2018-09-02 21:23:26,895 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2018-09-02 21:23:27,017 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-02 21:23:27,521 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:23:27,521 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:23:27,521 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:23:27,522 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:23:27,522 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\api-gateway\src\test\resources
+2018-09-02 21:23:54,587 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\pom.xml.
+2018-09-02 21:23:54,796 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.commons:commons-collections4:jar:4.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-09-02 21:23:54,950 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:23:54,950 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:23:54,950 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:23:54,951 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:23:54,951 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:23:56,714 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.commons:commons-collections4:jar:4.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-09-02 21:23:56,814 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:23:56,814 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:23:56,815 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:23:56,816 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:23:56,816 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:24:05,374 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-02 21:24:05,587 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\pom.xml.
+2018-09-02 21:24:05,750 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.commons:commons-collections4:jar:4.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-09-02 21:24:05,929 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservices-dashboard/src/main/java
+2018-09-02 21:24:05,929 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservices-dashboard/src/main/resources
+2018-09-02 21:24:05,929 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservices-dashboard/src/main/resources
+2018-09-02 21:24:05,929 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservices-dashboard/src/test/java
+2018-09-02 21:24:06,018 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-02 21:24:06,877 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.commons:commons-collections4:jar:4.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-09-02 21:24:07,021 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:07,022 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:24:07,022 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:24:07,024 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:07,024 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:24:17,731 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\api-gateway\pom.xml.
+2018-09-02 21:24:18,097 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:18,097 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:24:18,097 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:24:18,099 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:18,099 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\api-gateway\src\test\resources
+2018-09-02 21:24:19,699 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:19,699 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:24:19,700 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:24:19,701 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:19,701 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\api-gateway\src\test\resources
+2018-09-02 21:24:24,919 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-02 21:24:25,026 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\api-gateway\pom.xml.
+2018-09-02 21:24:25,272 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/main/java
+2018-09-02 21:24:25,272 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2018-09-02 21:24:25,272 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /api-gateway/src/main/resources
+2018-09-02 21:24:25,273 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /api-gateway/src/test/java
+2018-09-02 21:24:25,358 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-09-02 21:24:26,299 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:26,299 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:24:26,299 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:24:26,300 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:26,300 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\api-gateway\src\test\resources
+2018-09-02 21:24:45,426 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:45,426 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:24:45,427 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:24:45,428 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:24:45,429 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\api-gateway\src\test\resources
+2018-09-02 21:25:22,597 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:25:22,597 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2018-09-02 21:25:22,598 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:25:22,602 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:25:22,602 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\api-gateway\src\test\resources
