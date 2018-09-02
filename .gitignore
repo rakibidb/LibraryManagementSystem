@@ -1,1 +1,1 @@
-ServiceMesh/*.metadata
+!ServiceMesh/*.metadata
