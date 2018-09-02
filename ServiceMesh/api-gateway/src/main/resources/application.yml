@@ -1,0 +1,22 @@
+server:
+  port: 8302
+spring:
+  application:
+    name: api-zuul-gateway
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+zuul:
+  routes:
+    dob-service:
+      path: /user/**
+      url: http://localhost:8080/
+    hello-service:
+      path: /otheruser/**
+      url: http://localhost:8086/
+management:
+  security:
+    enabled: false
