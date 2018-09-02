@@ -771,3 +771,56 @@ java.io.FileNotFoundException: E:\LibraryManagementSystem\ServiceMesh\.metadata\
 2018-09-02 21:02:57,747 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2018-09-02 21:02:57,749 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2018-09-02 21:02:57,749 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\server-dashboard\src\test\resources
+2018-09-02 21:07:49,327 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\pom.xml.
+2018-09-02 21:07:50,068 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservices-dashboard/src/main/java
+2018-09-02 21:07:50,068 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservices-dashboard/src/main/resources
+2018-09-02 21:07:50,090 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservices-dashboard/src/main/resources
+2018-09-02 21:07:50,100 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservices-dashboard/src/test/java
+2018-09-02 21:07:50,292 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2018-09-02 21:07:50,293 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-09-02 21:07:50,500 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\pom.xml.
+2018-09-02 21:07:51,220 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservices-dashboard/src/main/java
+2018-09-02 21:07:51,221 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservices-dashboard/src/main/resources
+2018-09-02 21:07:51,222 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /microservices-dashboard/src/main/resources
+2018-09-02 21:07:51,224 [Worker-33] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /microservices-dashboard/src/test/java
+2018-09-02 21:07:51,326 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-09-02 21:07:52,930 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:07:52,931 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:07:52,940 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:07:52,941 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:07:52,941 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:08:26,765 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:08:26,768 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:08:26,769 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:08:26,778 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:08:26,778 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:09:26,138 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.rakib:demo:0.0.1-SNAPSHOT @ E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\pom.xml.
+2018-09-02 21:09:27,481 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/1.5.15.RELEASE/spring-boot-starter-data-redis-1.5.15.RELEASE.pom
+2018-09-02 21:09:27,666 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/1.5.15.RELEASE/spring-boot-starter-data-redis-1.5.15.RELEASE.pom
+2018-09-02 21:09:27,863 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.pom
+2018-09-02 21:09:28,038 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.pom
+2018-09-02 21:09:28,295 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/1.2.14.RELEASE/spring-data-keyvalue-1.2.14.RELEASE.pom
+2018-09-02 21:09:28,471 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/1.2.14.RELEASE/spring-data-keyvalue-1.2.14.RELEASE.pom
+2018-09-02 21:09:28,837 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.commons:commons-collections4:jar:4.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-09-02 21:09:29,130 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/1.5.15.RELEASE/spring-boot-starter-data-redis-1.5.15.RELEASE.jar
+2018-09-02 21:09:29,383 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-redis/1.5.15.RELEASE/spring-boot-starter-data-redis-1.5.15.RELEASE.jar
+2018-09-02 21:09:29,565 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar
+2018-09-02 21:09:32,493 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-redis/1.8.14.RELEASE/spring-data-redis-1.8.14.RELEASE.jar
+2018-09-02 21:09:32,665 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/1.2.14.RELEASE/spring-data-keyvalue-1.2.14.RELEASE.jar
+2018-09-02 21:09:32,985 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-keyvalue/1.2.14.RELEASE/spring-data-keyvalue-1.2.14.RELEASE.jar
+2018-09-02 21:09:34,674 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:09:34,678 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:09:34,690 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:09:34,691 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:09:34,691 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:09:35,568 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.commons:commons-collections4:jar:4.0 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2018-09-02 21:09:35,709 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:09:35,710 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:09:35,710 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:09:35,712 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:09:35,712 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
+2018-09-02 21:09:45,427 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:09:45,427 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-09-02 21:09:45,428 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-09-02 21:09:45,429 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-09-02 21:09:45,429 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\LibraryManagementSystem\ServiceMesh\microservices-dashboard\src\test\resources
