@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import com.mshr.model.Book;
 
 @RepositoryRestResource
-@CrossOrigin
+@CrossOrigin("*")
 public interface BookRepo extends JpaRepository<Book, Integer> {
 
 }
