@@ -1,4 +1,4 @@
-package com.mshr.repo;
+package com.mshr.Rate.repo;
 
 import java.util.List;
 
@@ -7,17 +7,22 @@ import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
-import com.mshr.model.Book;
+import com.mshr.Rate.model.Rate;
 
 @RepositoryRestResource
 @CrossOrigin("*")
-public interface BookRepo extends JpaRepository<Book, Integer> {
+public interface RateRepo extends JpaRepository<Rate, Integer> {
 
 	@Override
-	Book save(Book book);
+	Rate save(Rate rate);
 
-	List<Book> findByTitle(@Param("title") String title);
+	@Override
+	void delete(Integer id);
 
-	List<Book> findByAuthor(@Param("author") String author);
+	void deleteByBookId(Integer bookId);
+
+	Rate findByBookId(@Param("bookId") Integer bookId);
+
+	List<Rate> findByStars(@Param("stars") Integer stars);
 
 }
