@@ -13,9 +13,11 @@ import { ErrorComponent } from './error/error.component';
 import { LoginFormComponent } from './login-form/login-form.component';
 
 const routes: Route[] = [
-  {path: '', component: NavbarComponent },
+  {path: '', component: DefaultContentComponent },
   {path: 'book', component: BookComponent },
   {path: '**', component: ErrorComponent },
+
+
   // {path: 'view2', component:____ },
   // {path: 'view3', component: ____ },
 ];

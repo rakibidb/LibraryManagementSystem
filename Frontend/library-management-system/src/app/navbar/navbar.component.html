@@ -9,9 +9,9 @@
     <mat-toolbar color="primary">Home</mat-toolbar>
     <mat-nav-list>
       <a mat-list-item routerLink="">Home</a>
-      <a mat-list-item routerLink="ee">Favorite Books</a>
+      <a mat-list-item routerLink="book">Favorite Books</a>
       <!-- <mat-divider></mat-divider> -->
-      <a mat-list-item routerLink="book">Authors</a>
+      <a mat-list-item routerLink="">Authors</a>
        
     </mat-nav-list>
   </mat-sidenav>
@@ -29,6 +29,7 @@
     </mat-toolbar>
     <!-- Add Content Here -->
     
-       <app-default-content></app-default-content>
+       <!-- <app-default-content></app-default-content> -->
+       <router-outlet></router-outlet>
   </mat-sidenav-content>
 </mat-sidenav-container>
