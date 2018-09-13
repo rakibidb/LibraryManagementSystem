@@ -5,7 +5,7 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavbarComponent } from './navbar/navbar.component';
 import { LayoutModule } from '@angular/cdk/layout';
-import { MatToolbarModule, MatButtonModule, MatSidenavModule,MatCardModule,MatGridListModule, MatIconModule, MatListModule,MatTabsModule } from '@angular/material';
+import { MatToolbarModule, MatButtonModule, MatSidenavModule,MatCardModule,MatGridListModule, MatIconModule, MatListModule,MatTabsModule,MatProgressBarModule } from '@angular/material';
 import { DefaultContentComponent } from './default-content/default-content.component';
 import { RouterModule, Route } from '@angular/router';
 import { BookComponent } from './book/book.component';
@@ -46,7 +46,8 @@ const routes: Route[] = [
     MatListModule,
     MatCardModule,
     MatTabsModule,
-    MatGridListModule
+    MatGridListModule,
+    MatProgressBarModule
   ],
   exports:[RouterModule],
   providers: [],
