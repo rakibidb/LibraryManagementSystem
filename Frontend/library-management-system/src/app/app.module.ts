@@ -5,18 +5,20 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NavbarComponent } from './navbar/navbar.component';
 import { LayoutModule } from '@angular/cdk/layout';
-import { MatToolbarModule, MatButtonModule, MatSidenavModule, MatIconModule, MatListModule } from '@angular/material';
+import { MatToolbarModule, MatButtonModule, MatSidenavModule,MatCardModule,MatGridListModule, MatIconModule, MatListModule,MatTabsModule } from '@angular/material';
 import { DefaultContentComponent } from './default-content/default-content.component';
 import { RouterModule, Route } from '@angular/router';
 import { BookComponent } from './book/book.component';
 import { ErrorComponent } from './error/error.component';
 import { LoginFormComponent } from './login-form/login-form.component';
+import { AuthorComponent } from './author/author.component';
+
 
 const routes: Route[] = [
   {path: '', component: DefaultContentComponent },
   {path: 'book', component: BookComponent },
+  {path: 'author', component: AuthorComponent },
   {path: '**', component: ErrorComponent },
-
 
   // {path: 'view2', component:____ },
   // {path: 'view3', component: ____ },
@@ -30,6 +32,7 @@ const routes: Route[] = [
     BookComponent,
     ErrorComponent,
     LoginFormComponent,
+    AuthorComponent,
   ],
   imports: [
     RouterModule.forRoot(routes),
@@ -40,7 +43,10 @@ const routes: Route[] = [
     MatButtonModule,
     MatSidenavModule,
     MatIconModule,
-    MatListModule
+    MatListModule,
+    MatCardModule,
+    MatTabsModule,
+    MatGridListModule
   ],
   exports:[RouterModule],
   providers: [],
